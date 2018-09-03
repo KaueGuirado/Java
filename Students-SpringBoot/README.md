@@ -1,2 +1,2 @@
 # Students-SpringBoot
-Simple SpringBoot CRUD applications using MongoDB and MySQL.
+Simple SpringBoot CRUD application using MongoDB and MySQL.
